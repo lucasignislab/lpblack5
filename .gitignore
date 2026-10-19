@@ -1,3 +1,4 @@
 preview_*.png
 assets/Vídeo.mp4
 *.zip
+.DS_Store
